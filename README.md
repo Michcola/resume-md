@@ -41,7 +41,7 @@
 该项目使用原生JS实现，主要调用HTML 5 的Canvas API。提供Pc/Mobile在线画画
 、调色、调粗细、橡皮擦、画作下载等功能。
 通过该项目的制作,使我对Canvas有了一定理解。
-*   **技术栈：** **canvas、JavaScript**
+*   **技术栈：** **Canvas、JavaScript**
 *   **项目源码:**[Canvas](https://github.com/Michcola/canvas-demo-2019)
 *   **预览项目:**[点击查看](https://michcola.github.io/canvas-demo-2019/)
 
