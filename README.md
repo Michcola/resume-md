@@ -13,8 +13,8 @@
 # 项目和作品
 ### Daxi UI
 *   **项目介绍：** 
-该项目参照Element UI、 Ant Design、Framework7 等 UI 库思路，制作的一个基于**Vue**的简易 UI 组件库，目前已支持按钮、输入框、网格、布局、Toast、Tabs、Popover、手风琴等组件。每组组件历经需求分析到**Mocha** 单元测试，使用 **TravisCI**  实现持续集成测试。使用**Parcel** 打包,**Yarn** 进行包管理。
-该项目官方文档基于**VuePress**制作，且在npmjs.org上发布。
+该项目参照Element UI、 Ant Design、Framework7 等 UI 库思路，制作的一个基于 **Vue** 的简易 UI 组件库，目前已支持按钮、输入框、网格、布局、Toast、Tabs、Popover、手风琴等组件。每组组件历经需求分析到 **Mocha** 单元测试，使用 **TravisCI**  实现持续集成测试。使用 **Parcel** 打包, **Yarn** 进行包管理。
+该项目官方文档基于 **VuePress** 制作，且在npmjs.org上发布。
 完成该项目使我对前端工程化流程有了深刻的理解。
 *   **技术栈：** **Vue、VuePress、ES6、Parcel、Yarn、Mocha、TravisCI、SCSS** 
 *   **项目源码:**[github.com/Michcola/Daxi](https://github.com/Michcola/Daxi)
@@ -47,16 +47,16 @@
 
 # 技能描述
 
-- **HTML5 & CSS 3**:能独立制作精美网页，了解**HTML**语义化,掌握**CSS 3** 动画、过渡效果、响应式等常用技术。
-- **JS**:熟悉**JavaScript(ES6)**，掌握原型、闭包等相关知识点。
-- **jQuery**:熟悉**jQuery**的常用API，能使用jQuery制作网站、轮播等。
-- **Vue**:熟悉**Vue**的常用功能，如组件、**Vue-Router**、**VueX**、**Vue-CLI**，双向绑定等。 
-- **移动端**页面:会使用**REM**、**vm/vh**等技术制做适配手机设备的页面
-- **MV***:理解**MVC**、**MVVM**等设计思想
-- **Git**:熟悉**Git**相关操作
-- **Webpack/Parcel**:熟悉**Webpack/Parcel**等打包工具的使用
-- **Scss/Less**:熟悉 **Scss/Less**的常用结构语法
-- **小程序**制作: 熟悉**原生小程序**的使用
+- **HTML5 & CSS 3**:能独立制作精美网页，了解 **HTML** 语义化,掌握 **CSS 3** 动画、过渡效果、响应式等常用技术。
+- **JS**:熟悉 **JavaScript(ES6)** ，掌握原型、闭包等相关知识点。
+- **jQuery**:熟悉 **jQuery** 的常用API，能使用jQuery制作网站、轮播等。
+- **Vue**:熟悉 **Vue** 的常用功能，如组件、**Vue-Router**、**VueX**、**Vue-CLI**，双向绑定等。 
+- **移动端**页面:会使用 **REM** 、 **vm/vh** 等技术制做适配手机设备的页面
+- **MV***:理解 **MVC** 、 **MVVM** 等设计思想
+- **Git**:熟悉 **Git** 相关操作
+- **Webpack/Parcel**:熟悉 **Webpack/Parcel** 等打包工具的使用
+- **Scss/Less**:熟悉 **Scss/Less** 的常用结构语法
+- **小程序**制作: 熟悉 **原生小程序** 的使用
 
 # 实习经历
 
