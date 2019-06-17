@@ -4,7 +4,7 @@
 - 牟倡宏 / 男 / 23
 - 联系电话：18106979982
 - 邮箱地址：843298603@foxmail.com
-- github：[github.com/Michcola](https://github.com/Michcola)
+- github：[Michcola](https://github.com/Michcola)
 - 技术博客：[blog](https://www.jianshu.com/u/919d5db52017)
 - 教育经历：厦门理工学院 / 软件工程 / 本科
 - 毕业时间：2019 / 07
