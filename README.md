@@ -24,7 +24,7 @@
 *   **项目介绍：** 
 这是一个基于vue的共享博客,实现了登录、注册、编辑、发布等功能。
 项目以Vue-CLI创建项目模板,Grid页面布局,使用Less语言为CSS预处理,通过Element UI 交互,用Axios来获取数据,通过Vue-Router实现路由,Vuex实现状态管理
-*   **技术栈：**Vue CLI、Vue Router、Vuex、Axios、ES6、LESS、Grid
+*   **技术栈：** **Vue CLI、Vue Router、Vuex、Axios、ES6、LESS、Grid**
 *   **项目源码:**[https://github.com/Michcola/vue-blog-client)
 *   **预览项目:**[点击查看](https://michcola.github.io/vue-blog-client)
 
